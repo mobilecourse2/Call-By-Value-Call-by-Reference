@@ -4,11 +4,20 @@ public class StringFunctions {
 
     public static void main(String[] args) {
    
-        
-        int[] value = {155,145};
+       /*
+       int[] value = {155,145};
         System.out.println("Before caling ptintArray method vlaue[0] =" + value[0]);
         pritnArray(value);
         System.out.println("After caling ptintArray method vlaue[0] =" + value[0]);
+        
+       
+       */
+        
+        
+        
+        
+        
+        
         /*     String s1="  hello   ";  
          System.out.println(s1+"how are you");        // without trim()  
          System.out.println(s1.trim()+"how are you"); // with trim() */
@@ -30,10 +39,15 @@ public class StringFunctions {
         num = 100;
         System.out.println("inside display method value of num" + num);
     }*/
-   
+    
+    
+   /*
     public static void pritnArray(int[] array) {
         System.out.println("Inside  ptintArray method vlaue[0] =" + array[0]);
         array[0] = 100;
         System.out.println("Inside  ptintArray method after changing vlaue[0] =" + array[0]);
+   
+   */
+   
     }
 }
